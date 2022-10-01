@@ -1,0 +1,168 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+
+}
+
+
+.nft-card {
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+    background-color: hsl(216, 50%, 16%);
+    height: 515px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 18px 21px rgba(0, 0, 0, 0.11);
+}
+
+.atagimages {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.nft-image {
+    margin-top: 20px;
+    width: 260px;
+    border-radius: 6px;
+    position: relative;
+}
+
+.bluefilter {
+    height: 260px;
+    width: 260px;
+    background-color: hsla(178, 100%, 50%, 0.3);
+    position: absolute;
+    top: -244px;
+    left: 0px;
+    z-index: 1;
+    border-radius: 6px;
+    display: none;
+
+}
+
+.view-icon {
+    position: absolute;
+    top: -243px;
+    z-index: 1;
+    padding: 106px;
+    display: none;
+
+
+}
+
+.atagimages:hover>.view-icon {
+    display: inline-block;
+}
+
+.atagimages:hover>.bluefilter {
+    display: inline-block;
+}
+
+
+
+
+.title {
+
+    text-align: start;
+    font-size: 1.3rem;
+    margin: 20px 0 0 20px;
+}
+
+.nodecor {
+    color: white;
+    text-decoration: none;
+}
+
+.nodecor:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+.description {
+    font-size: 0.95rem;
+    text-align: start;
+    margin: 15px 20px 0 20px;
+    color: #8BACD9;
+}
+
+.infobox {
+    font-size: 0.85rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 0 20px;
+    margin: 5px auto;
+
+}
+
+.price {
+    color: hsl(178, 100%, 50%);
+}
+
+.deadline {
+    color: #8BACD9;
+}
+
+.eth-icon {
+    margin: auto 5px -3px auto;
+    width: 11%;
+}
+
+.clock {
+    margin: auto 5px -3px auto;
+    width: 18%;
+}
+
+hr {
+    width: 86%;
+    color: #8bacd945;
+    border-width: 1px 0 0 0;
+}
+
+
+
+.byline {
+    text-align: start;
+    padding: 3px 20px 3px 20px;
+    color: #8BACD9;
+    font-size: 0.85rem;
+}
+
+.avatar {
+    width: 10%;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin: auto 10px -8px auto;
+}
+
+.name {
+    color: white;
+    text-decoration: none;
+}
+
+.name:hover {
+    color: hsl(178, 100%, 50%)
+}
+
+
+.attribution {
+    font-size: 0.85rem;
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: -150px;
+    color: #8BACD9;
+    padding-bottom: 2%;
+}
+
+.attribution a {
+    color: white
+}
+
+
+
+/* 
+
+font-family: 'Outfit', sans-serif;
+
+*/
