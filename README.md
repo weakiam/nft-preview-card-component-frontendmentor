@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/the-quest-for-the-image-hover-nft-card-component-zeT55VxWqY](https://your-solution-url.com)
-- Live Site URL: [https://weakiam.github.io/nft-preview-card-component-frontendmentor/](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/the-quest-for-the-image-hover-nft-card-component-zeT55VxWqY)
+- Live Site URL: [Live site](https://weakiam.github.io/nft-preview-card-component-frontendmentor/)
 
 ## My process
 
